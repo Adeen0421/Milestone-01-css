@@ -17,7 +17,7 @@ const Hero = () => {
         <div className="hero-d">
           <div className="hero-dd">
             <p className="hero-p">
-              I'm
+              I am
             </p>
             <p className="hero-p">Adeen</p>
             <p className="hero-p">Khan</p>
